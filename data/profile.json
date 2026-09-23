@@ -1,0 +1,82 @@
+{
+    "name": "Puput Novianti - Electronics & Embedded Systems Engineer | IoT | Hardware Development",
+    "description": "Electronics Engineering graduate from Politeknik Negeri Semarang with hands-on experience in embedded systems, IoT, PCB assembly, hardware troubleshooting, and microcontroller programming. Experienced in developing sensor-based systems using Raspberry Pi, Arduino, and ESP platforms, including an IoT-based Early Warning System and Raspberry Pi Trainer Kit. Familiar with electronics prototyping, sensor integration, system testing, and technical documentation.",
+    "profileImage": "images/profile.jpg",
+    "email": "noviantipuput.work@gmail.com",
+    "phone": "+62 81225040340",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/puput-novianti-6aa9873a8/"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/puputnovianti382-beep"
+        },
+        {
+            "platform": "Twitter",
+            "url": "https://x.com/pptnovianti"
+        }
+    ],
+    "cv": {
+        "text": "Download CV",
+        "file": "docs/CV_ATS_PUPUT NOVIANTI_2-1.pdf",
+        "icon": "fas fa-file-pdf"
+    },
+    "hardSkills": [
+        {
+            "name": "PCB Assembly & Soldering",
+            "icon": "fas fa-microchip"
+        },
+        {
+            "name": "Electronic Circuit Design",
+            "icon": "fas fa-bolt"
+        },
+        {
+            "name": "Internet of Things (IoT)",
+            "icon": "fas fa-wifi"
+        },
+        {
+            "name": "Arduino & Microcontroller Programming",
+            "icon": "fas fa-code"
+        },
+        {
+            "name": "Hardware Troubleshooting",
+            "icon": "fas fa-screwdriver-wrench"
+        },
+        {
+            "name": "KiCad, Proteus, Wokwi & Tinkercad",
+            "icon": "fas fa-laptop-code"
+        },
+        {
+            "name": "Technical Documentation",
+            "icon": "fas fa-file-lines"
+        },
+        {
+            "name": "Microsoft Word, Excel & PowerPoint",
+            "icon": "fas fa-file-word"
+        }
+    ],
+    "softSkills": [
+        {
+            "name": "Communication",
+            "icon": "fas fa-comments"
+        },
+        {
+            "name": "Teamwork",
+            "icon": "fas fa-users"
+        },
+        {
+            "name": "Problem Solving",
+            "icon": "fas fa-lightbulb"
+        },
+        {
+            "name": "Adaptability",
+            "icon": "fas fa-arrows-rotate"
+        },
+        {
+            "name": "English Proficiency (TOEIC 755)",
+            "icon": "fas fa-language"
+        }
+    ]
+}
